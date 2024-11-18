@@ -1,0 +1,44 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie A",
+  "CategorieA": [
+    {
+      "urlimgA": "https://i.ibb.co/0yGfjtW/barberry-8612696-1280.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/FnZFGGj/beach-5234306-1280.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/k1Pt9W2/boat-7246847-1280.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/WfcVzbw/flower-8559381-1280.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/2qTntFq/forest-3622519-1280.jpg"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/Ybrmk8L/sky-3294543-1280.jpg"
+    }
+  ],
+   "CategorieATitle": [
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    }
+  ]
+}
