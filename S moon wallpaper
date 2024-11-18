@@ -1,0 +1,44 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie A",
+  "CategorieA": [
+    {
+      "urlimgA": "https://i.postimg.cc/FHHCNRmN/lunar-eclipse-3572336-1280.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/26h22LdF/moon-5190738-1280.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/1zLvGrF3/moon-7122089-1280.png"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/x1pxC2TH/mountains-6839521-1280.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/mk4VqZ8x/night-7964988-1280.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/XvZ2BzpP/night-913046-1280.jpg"
+    }
+  ],
+  "CategorieATitle": [
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    }
+  ]
+}
