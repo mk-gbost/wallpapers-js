@@ -1,0 +1,50 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie A",
+  "CategorieA": [
+    {
+      "urlimgA": "https://i.ibb.co/XJS8mdy/C-photo-1.png"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/LzBngfM/C-photo-2.png"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/xzVwsX8/C-photo-3.png"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/1mDkXvm/C-photo-4.png"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/gTKRMjs/C-photo-5.png"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/jD0mxKM/C-photo-6.png"
+    },
+    {
+      "urlimgA": "https://i.ibb.co/XpzkTz8/C-photo-7.png"
+    }
+  ],
+  "CategorieATitle": [
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    }
+  ]
+}
