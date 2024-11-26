@@ -1,0 +1,50 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie A",
+  "CategorieA": [
+    {
+      "urlimgA": "https://i.postimg.cc/MZs3hBnT/pexels-ellie-burgin-1661546-25956521.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/43bBwHCX/pexels-itfeelslikefilm-3634926.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/htmCz3pz/pexels-itfeelslikefilm-3634930.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/SKpgW7vZ/pexels-livvux-2698880.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/L6nQRsPV/pexels-pixabay-53425.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/YqZnSwfB/pexels-pixabay-65320.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/ZRbjQYZp/pexels-shtefutsa-17830898.jpg"
+    }
+  ],
+  "CategorieATitle": [
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    }
+  ]
+}
