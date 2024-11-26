@@ -1,0 +1,50 @@
+{
+  "version": "v2",
+  "comment": "stuff Categorie A",
+  "CategorieA": [
+    {
+      "urlimgA": "https://i.postimg.cc/rpZCfByw/pexels-david-bartus-43782-1510544.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/Dz014xQk/pexels-frank-cone-140140-2285996.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/mg8QrvHy/pexels-mikebirdy-104373.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/qMcsPhBY/pexels-pixabay-247373.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/5trLB8pH/pexels-pixabay-326012.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/QdXQh8HM/pexels-pixabay-372166.jpg"
+    },
+    {
+      "urlimgA": "https://i.postimg.cc/Px8Z2NFS/pexels-smpicturez-4001296.jpg"
+    }
+  ],
+  "CategorieATitle": [
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    },
+    {
+      "TitleimgA": "  "
+    }
+  ]
+}
